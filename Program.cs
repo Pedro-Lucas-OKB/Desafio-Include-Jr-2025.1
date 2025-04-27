@@ -1,3 +1,4 @@
+using ApiTarefas.Controllers;
 using ApiTarefas.Data;
 
 var builder = WebApplication.CreateBuilder(args);
