@@ -59,3 +59,17 @@ Depois, é possível testar a API utilizando uma ferramenta como Postman ou Inso
     "status": "false"
 }
 ```
+
+### Telas do Postman
+#### GetAll
+![GetAll](docs/pictures/GetAll.png)
+#### GetById
+![GetById](docs/pictures/GetById.png)
+#### POST
+![POST](docs/pictures/POST.png)
+#### PUT
+![PUT](docs/pictures/PUT.png)
+#### PATCH
+![PATCH](docs/pictures/PATCH.png)
+#### DELETE
+![DELETE](docs/pictures/DELETE.png)
