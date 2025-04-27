@@ -42,9 +42,13 @@ public class Tarefa
 ```
 
 ### Testando a API
-Primeiro, execute o programa com:
+Primeiro, instale o [.NET SDK 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.408-windows-x64-installer) e execute o programa com um dos seguintes comandos no terminal:
 ```bash
 dotnet watch run -lp https
+```
+Ou
+```bash
+dotnet watch run -lp http
 ```
 
 Depois, é possível testar a API utilizando uma ferramenta como Postman ou Insomnia.
